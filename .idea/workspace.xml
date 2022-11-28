@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09c799dd-29d2-47c6-916c-33f6427ee058" name="Changes" comment="Created a framework to choose between different challenges">
-      <change afterPath="$PROJECT_DIR$/src/MethodsChallenge/Exercise2Calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodsChallenge/Exercise3MinMaxMethods/MinMaxer.java" afterDir="false" />
+    <list default="true" id="09c799dd-29d2-47c6-916c-33f6427ee058" name="Changes" comment="Added the files from the array test to centralise location of challenges">
+      <change afterPath="$PROJECT_DIR$/src/ArrayChallenge/ArrayDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayChallenge/Tests/Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayChallenge/Tests/ExistInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayChallenge/Tests/MaxAndMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayChallenge/Tests/TestArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodsChallenge/Exercise1/ExerciseDriver1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodsChallenge/Exercise1FibonacciCalc/ExerciseDriver1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodsChallenge/Exercise2/ExerciseDriver2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodsChallenge/Exercise2Calculator/ExerciseDriver2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodsChallenge/Exercise3/ExerciseDriver3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodsChallenge/Exercise3MinMaxMethods/ExerciseDriver3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodsChallenge/MethodsDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodsChallenge/MethodsDriver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="L:\Novus\Code\TrevorsChallenges\src\ArrayChallenge" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="MethodsChallenge.Exercise3" />
       <recent name="MethodsChallenge.Exercise2" />
@@ -58,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669656002845</updated>
       <workItem from="1669656004050" duration="2212000" />
-      <workItem from="1669658535034" duration="1582000" />
+      <workItem from="1669658535034" duration="2158000" />
     </task>
     <task id="LOCAL-00001" summary="Created a framework to choose between different challenges">
       <created>1669657650716</created>
@@ -67,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669657650716</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Each challenge is complete, first challenge is fibonacci, second is calculator, third is min maxer, run the Main driver and select which program to run">
+      <created>1669660201465</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669660201465</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +95,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created a framework to choose between different challenges" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a framework to choose between different challenges" />
+    <MESSAGE value="Each challenge is complete, first challenge is fibonacci, second is calculator, third is min maxer, run the Main driver and select which program to run" />
+    <MESSAGE value="Added the files from the array test to centralise location of challenges" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the files from the array test to centralise location of challenges" />
   </component>
 </project>
