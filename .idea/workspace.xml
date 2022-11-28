@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09c799dd-29d2-47c6-916c-33f6427ee058" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TrevorsChallenges.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodsChallenge/Exercise1/ExerciseDriver1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodsChallenge/Exercise2/ExerciseDriver2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodsChallenge/Exercise3/ExerciseDriver3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodsChallenge/MethodsDriver.java" afterDir="false" />
+    <list default="true" id="09c799dd-29d2-47c6-916c-33f6427ee058" name="Changes" comment="Created a framework to choose between different challenges">
+      <change afterPath="$PROJECT_DIR$/src/MethodsChallenge/Exercise2Calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodsChallenge/Exercise3MinMaxMethods/MinMaxer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MethodsChallenge/Exercise1/ExerciseDriver1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodsChallenge/Exercise1FibonacciCalc/ExerciseDriver1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MethodsChallenge/Exercise2/ExerciseDriver2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodsChallenge/Exercise2Calculator/ExerciseDriver2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MethodsChallenge/Exercise3/ExerciseDriver3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodsChallenge/Exercise3MinMaxMethods/ExerciseDriver3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MethodsChallenge/MethodsDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodsChallenge/MethodsDriver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="MethodsChallenge.Exercise3" />
@@ -61,8 +57,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669656002845</updated>
-      <workItem from="1669656004050" duration="1268000" />
+      <workItem from="1669656004050" duration="2212000" />
+      <workItem from="1669658535034" duration="1582000" />
     </task>
+    <task id="LOCAL-00001" summary="Created a framework to choose between different challenges">
+      <created>1669657650716</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669657650716</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +83,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created a framework to choose between different challenges" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a framework to choose between different challenges" />
   </component>
 </project>

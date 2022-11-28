@@ -1,18 +1,13 @@
 package MethodsChallenge;
 
 
-import MethodsChallenge.Exercise1.ExerciseDriver1;
-import MethodsChallenge.Exercise2.ExerciseDriver2;
-import MethodsChallenge.Exercise3.ExerciseDriver3;
+import MethodsChallenge.Exercise1FibonacciCalc.ExerciseDriver1;
+import MethodsChallenge.Exercise2Calculator.ExerciseDriver2;
+import MethodsChallenge.Exercise3MinMaxMethods.ExerciseDriver3;
 
 import java.util.Scanner;
 
 public class MethodsDriver {
-
-
-    ExerciseDriver1 driverOne = new ExerciseDriver1();
-    ExerciseDriver2 driverTwo = new ExerciseDriver2();
-    ExerciseDriver3 driverThree = new ExerciseDriver3();
 
     public MethodsDriver(){
         Scanner reader = new Scanner(System.in);
@@ -28,6 +23,7 @@ public class MethodsDriver {
                 break;
             case 3:
                 ExerciseDriver3 driverThree = new ExerciseDriver3();
+                break;
             default:
                 System.out.println("Wrong number");
         }
