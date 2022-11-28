@@ -17,16 +17,16 @@ public class ArrayDriver {
         Scanner myObj = new Scanner(System.in);  // Create a Scanner object
 
         System.out.print("\nMain Menu\n" +
-                "1. Test 1\n" +
-                "2. Test 2\n" +
-                "3. Test 3\n" +
-                "4. Test 4\nEnter test number:");
+                "1. Test 1 Test Array\n" +
+                "2. Test 2 ExistInArray\n" +
+                "3. Test 3 MaxAndMin\n" +
+                "4. Test 4 Duplicates\nEnter test number:");
 
         // Gets the users input
 
         String menuInput = myObj.nextLine().toLowerCase();  // Read user input
 
-        // Runs the neccasry test
+        // Runs the neccasary test
 
         switch(menuInput){
             case "1":

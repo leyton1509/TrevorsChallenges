@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09c799dd-29d2-47c6-916c-33f6427ee058" name="Changes" comment="Added the files from the array test to centralise location of challenges">
-      <change afterPath="$PROJECT_DIR$/src/ArrayChallenge/ArrayDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayChallenge/Tests/Duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayChallenge/Tests/ExistInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayChallenge/Tests/MaxAndMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayChallenge/Tests/TestArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayChallenge/ArrayDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayChallenge/ArrayDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MethodsChallenge/MethodsDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodsChallenge/MethodsDriver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669656002845</updated>
       <workItem from="1669656004050" duration="2212000" />
-      <workItem from="1669658535034" duration="2158000" />
+      <workItem from="1669658535034" duration="2350000" />
     </task>
     <task id="LOCAL-00001" summary="Created a framework to choose between different challenges">
       <created>1669657650716</created>
@@ -76,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669660201465</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added the files from the array test to centralise location of challenges">
+      <created>1669660708998</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669660708998</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

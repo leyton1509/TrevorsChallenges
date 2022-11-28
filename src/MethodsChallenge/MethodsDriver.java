@@ -11,7 +11,7 @@ public class MethodsDriver {
 
     public MethodsDriver(){
         Scanner reader = new Scanner(System.in);
-        System.out.print("Enter which exercise to run | 1 | 2 | 3 |:");
+        System.out.print("Enter which exercise to run\n| 1 Fibonacci |\n| 2 Calculator |\n| 3 MaxMin |\nChoice:");
         int input = reader.nextInt();
 
         switch (input){
