@@ -1,6 +1,5 @@
-
-
 import ArrayChallenge.ArrayDriver;
+import ClassChallenge.ClassDriver;
 import MethodsChallenge.MethodsDriver;
 
 import java.util.Scanner;
@@ -12,8 +11,9 @@ public class MainDriver {
 
         System.out.print("\nChallenges Menu\n" +
                 "1. Array Challenge\n" +
-                "2. Methods Challenge\nEnter Challenge Number:");
-
+                "2. Methods Challenge\n" +
+                "3. Classes Challenge\n" +
+                "Enter Challenge Number:");
 
         String menuInput = myObj.nextLine().toLowerCase();  // Read user input
 
@@ -23,6 +23,9 @@ public class MainDriver {
                 break;
             case "2":
                 MethodsDriver methodsDriver = new MethodsDriver();
+                break;
+            case "3":
+                ClassDriver classDriver = new ClassDriver();
                 break;
             default:
                 System.out.println("Not recognised");
