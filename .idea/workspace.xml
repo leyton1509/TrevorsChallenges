@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09c799dd-29d2-47c6-916c-33f6427ee058" name="Changes" comment="Exercise 2 has been completed">
-      <change afterPath="$PROJECT_DIR$/src/ClassChallenge/Exercise3Circle/Circle.java" afterDir="false" />
+    <list default="true" id="09c799dd-29d2-47c6-916c-33f6427ee058" name="Changes" comment="Completed exercise 3 for circle">
+      <change afterPath="$PROJECT_DIR$/src/ClassChallenge/Exercise4Library/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassChallenge/Exercise4Library/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassChallenge/Exercise3Circle/CircleDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassChallenge/Exercise3Circle/CircleDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassChallenge/ClassDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassChallenge/ClassDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassChallenge/Exercise4Library/LibraryDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassChallenge/Exercise4Library/LibraryDriver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +59,7 @@
       <updated>1669656002845</updated>
       <workItem from="1669656004050" duration="2212000" />
       <workItem from="1669658535034" duration="3622000" />
-      <workItem from="1669716275537" duration="3601000" />
+      <workItem from="1669716275537" duration="4369000" />
     </task>
     <task id="LOCAL-00001" summary="Created a framework to choose between different challenges">
       <created>1669657650716</created>
@@ -108,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669728872435</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Completed exercise 3 for circle">
+      <created>1669729326503</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669729326503</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +142,7 @@
     <MESSAGE value="Added the classes challenge to the project" />
     <MESSAGE value="Exercise 1 has been completed" />
     <MESSAGE value="Exercise 2 has been completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 2 has been completed" />
+    <MESSAGE value="Completed exercise 3 for circle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed exercise 3 for circle" />
   </component>
 </project>

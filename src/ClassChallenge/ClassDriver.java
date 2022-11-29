@@ -23,6 +23,7 @@ public class ClassDriver {
                 break;
             case 4:
                 LibraryDriver lDriver = new LibraryDriver();
+                break;
             default:
                 System.out.println("Wrong number");
         }
