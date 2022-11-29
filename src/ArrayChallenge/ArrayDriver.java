@@ -10,6 +10,9 @@ import java.util.Scanner;
 
 public class ArrayDriver {
 
+    /**
+     * Array Driver to run the different array tasks
+     */
     public ArrayDriver() {
 
         // Creates a scanner to ask for option
