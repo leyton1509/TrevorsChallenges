@@ -9,6 +9,9 @@ import java.util.Scanner;
 
 public class MethodsDriver {
 
+    /**
+     * Methods driver to run the methods exercises
+     */
     public MethodsDriver(){
         Scanner reader = new Scanner(System.in);
         System.out.print("Enter which exercise to run\n| 1 Fibonacci |\n| 2 Calculator |\n| 3 MaxMin |\nChoice:");

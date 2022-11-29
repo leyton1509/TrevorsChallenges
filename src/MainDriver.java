@@ -4,8 +4,18 @@ import MethodsChallenge.MethodsDriver;
 
 import java.util.Scanner;
 
+/**
+ * Main driver to run the program
+ */
 public class MainDriver {
+
+    /**
+     * @param args no arguments needed
+     */
+
     public static void main(String[] args) {
+
+        // Gets which challenge to run
 
         Scanner myObj = new Scanner(System.in);  // Create a Scanner object
 
@@ -16,6 +26,8 @@ public class MainDriver {
                 "Enter Challenge Number:");
 
         String menuInput = myObj.nextLine().toLowerCase();  // Read user input
+
+        // Runs the necassary challenge
 
         switch(menuInput){
             case "1":

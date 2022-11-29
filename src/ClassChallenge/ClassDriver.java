@@ -8,6 +8,9 @@ import java.util.Scanner;
 
 public class ClassDriver {
 
+    /**
+     * Class drover tp run any of the class challenges
+     */
     public ClassDriver() {
         Scanner reader = new Scanner(System.in);
         System.out.print("Enter which exercise to run\n| 1/2 Person Creator |\n| 3 Circle Class |\n| 4 Library |\nChoice:");
