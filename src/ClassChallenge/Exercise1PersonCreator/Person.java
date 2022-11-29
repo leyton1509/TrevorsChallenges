@@ -50,4 +50,10 @@ public class Person {
         System.out.println("Name : " + getName() + " Age : " + getAge() + " Height : " + getHeight() + " Weight : " + getWeight());
     }
 
+    public void growOlder(){
+        setAge((getAge() +1));
+        setHeight((getHeight() -1));
+        setWeight((getWeight() -0.5));
+    }
+
 }
